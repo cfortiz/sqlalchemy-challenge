@@ -5,10 +5,11 @@ your climate database.
 
 ## Files
 
-* `README.md`: This file
+* `README.md`: This file.
 * `SurfsUp/climate_starter.ipynb`: Jupyter notebook with code for hawaii climate
   analysis.
 * `SurfsUp/app.py`: Flask rest service code.
+* `SurfsUp/Resources/hawaii*`: SQLite db abd CSV data files (provided).
 
 ## Notes
 
